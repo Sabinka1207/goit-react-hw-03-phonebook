@@ -1,0 +1,16 @@
+.allContacts {
+  width: 400px;
+}
+.contact {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.delete {
+  margin-left: 20px;
+  width: 80px;
+  height: 20px;
+  font-weight: 600;
+  background-color: rgb(255, 159, 159);
+}
